@@ -1,4 +1,4 @@
-package AllureReports.practise;
+package resources;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
