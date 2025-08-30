@@ -1,3 +1,2 @@
-stepdefinitions\LoginSteps.class
 runners\TestRunner.class
-resources\AppTest.class
+stepdefinitions\LoginSteps.class
